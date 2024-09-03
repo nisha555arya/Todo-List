@@ -58,7 +58,7 @@ export const TodoList = () => {
           onChange={handleInputChange}
           sx={{
             width: {
-              xs: "235px",
+              xs: "200px",
               sm: "300px",
             },
             mb: 2,
